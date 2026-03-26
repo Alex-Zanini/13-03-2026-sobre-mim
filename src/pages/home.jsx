@@ -12,7 +12,9 @@ export default function Home() {
 
       <div className="page-actions">
         <Link className="page-button" to="/sobre">Sobre mim</Link>
-        <Link className="page-button secondary" to="/contato">Contato</Link>
+        <Link className="page-button" to="/contato">Contato</Link>
+        <Link className="page-button" to="/produtos">Produtos</Link>
+        <Link className="page-button" to="/servicos">Serviços</Link>
       </div>
 
     </div>
